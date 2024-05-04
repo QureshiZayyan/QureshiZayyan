@@ -10,16 +10,17 @@ Welcome to my GitHub profile! I'm Zayyan, a passionate software developer and te
 ## Projects
 Here are some of the projects I've worked on:
 
-- [ToDo List](https://qureshizayyan.github.io/ToDo-List/)
-ToDo List Application (Responsive),Where you can Create a list and Delete.
-Tech Stack : HTML,CSS and JavaScript.
+-[Weather App](https://qureshizayyan.github.io/Weather-App/)
+Weather Application (Responsive).
+Tech Stack : HTML,CSS,BootStrap and JavaScript.
 
-- [Microsoft Website Clone](https://qureshizayyan.github.io/Microsoft-Website-Clone-Responsive-/)
-Microsoft Website Clone (Responsive).
-Tech Stack : HTML,CSS and JavaScript.
+-[Personal Portfolio](https://qureshizayyan.github.io/Personal-Portfolio/)
+Personal Portfolio Website
+Tech Stack : HTML,CSS,JavaScript and Typed.js
 
-- [FAQ's Page](https://qureshizayyan.github.io/FAQ-Page/)
-Tech Stack : HTML,CSS and JavaScript.
+-[Facebook Login Page](https://qureshizayyan.github.io/FAQ-Page/)
+ With Password Validation
+ Tech Stack : HTML,CSS and JavaScript.
 
 
 Feel free to explore my repositories to see more of my work!
