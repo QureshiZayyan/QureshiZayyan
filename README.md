@@ -27,6 +27,7 @@ Feel free to explore my repositories to see more of my work!
 
 ## Skills
 - **Programming Languages**: JavaScript.
+- **FrameWorks & Libraries**: React.Js, Redux, Tailwind CSS, BootStrap.
 - **Tools & Platforms**: Git, VS Code etc.
 
 ## Connect with Me
