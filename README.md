@@ -26,10 +26,10 @@ Tech Stack : HTML,CSS,JavaScript and Typed.js
 Feel free to explore my repositories to see more of my work!
 
 ## Skills
-- **Programming Languages**:![HTML](https://img.shields.io/badge/html-F7DF1E?logo=html&logoColor=black&style=flat-square)
-![CSS](https://img.shields.io/badge/-css-61DAFB?logo=css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-javascript-61DAFB?logo=javascript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
+- **Programming Languages**:![HTML](https://img.shields.io/badge/html-F7DF1E?logo=html&logoColor=orange&style=flat-square)
+![CSS](https://img.shields.io/badge/-css-61DAFB?logo=css&logoColor=darkblue)
+![JavaScript](https://img.shields.io/badge/-javascript-61DAFB?logo=javascript&logoColor=yellow)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
 ![Redux](https://img.shields.io/badge/-Redux-61DAFB?logo=redux&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-tailwindcss-61DAFB?logo=tailwindcss&logoColor=white)
 ![React](https://img.shields.io/badge/-bootstrap-61DAFB?logo=bootstrap&logoColor=white)
