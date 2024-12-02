@@ -26,8 +26,13 @@ Tech Stack : HTML,CSS,JavaScript and Typed.js
 Feel free to explore my repositories to see more of my work!
 
 ## Skills
-- **Programming Languages**:![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
+- **Programming Languages**:![HTML](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
+![CSS](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
+![Redux](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
+
 
 - **FrameWorks & Libraries**: React.Js, Redux, Tailwind CSS, BootStrap.
 - **Tools & Platforms**: Git, VS Code etc.
