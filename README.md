@@ -26,12 +26,13 @@ Tech Stack : HTML,CSS,JavaScript and Typed.js
 Feel free to explore my repositories to see more of my work!
 
 ## Skills
-- **Programming Languages**:![HTML](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
-![CSS](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
+- **Programming Languages**:![HTML](https://img.shields.io/badge/JavaScript-F7DF1E?logo=html&logoColor=black&style=flat-square)
+![CSS](https://img.shields.io/badge/-React-61DAFB?logo=css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-React-61DAFB?logo=javascript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
-![Redux](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
+![Redux](https://img.shields.io/badge/-React-61DAFB?logo=redux&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-React-61DAFB?logo=tailwindcss&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=bootstrap&logoColor=white)
 
 
 - **FrameWorks & Libraries**: React.Js, Redux, Tailwind CSS, BootStrap.
