@@ -1,69 +1,60 @@
 <h1 align="center">Hey there 👋, I'm Zayyan</h1>
 
 <p align="center">
-  Passionate Front-End Developer | React Enthusiast | Lifelong Learner
+  Full-Stack Web Developer | Problem Solver | Lifelong Learner
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 🎓 BSc in Information Technology
-- 💡 Always exploring modern web tech & UI/UX design
-- 🚀 Love building responsive, real-world projects with React
-- 🌱 Currently learning advanced state management and Firebase integration
+- 🎓 BSc in Information Technology  
+- 💡 Passionate about building real-world applications from end to end  
+- 💻 Proficient in both frontend and backend technologies  
+- 🌱 Currently improving skills in system design and scalable architecture
 
 ---
 
 ## 🚀 Featured Project — ShopKart 🛒
 
-An elegant **eCommerce web app** built with:
+A fully functional **eCommerce web app** that includes:
 
-- ⚛️ **React JS**
-- 🎨 **Tailwind CSS**
-- 🔐 **Firebase Auth + Firestore**
-- 🛍️ Real product filtering, cart management, and login system
+- ⚛️ **React.js** for dynamic UI
+- 🎨 **Tailwind CSS** for modern responsive design  
+- 🔐 **Firebase** for authentication & hosting  
+- 🛒 Real-time cart, category filtering, and product listing  
 
-🔗 [Live Demo](#) &nbsp;&nbsp;&nbsp;&nbsp;📦 [GitHub Repo](https://github.com/Zayyan-TSA/shopkart)
+🔧 Backend Version (in progress):
+- 🌐 **Node.js + Express.js**
+- 🗄️ **MongoDB** with Mongoose
+
+📂 GitHub Repo: [ShopKart](https://github.com/Zayyan-TSA/shopkart)
 
 ---
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-</p>
+### Frontend  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
+
+### Backend  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 
 ---
 
 ## 📫 Contact Me
 
 - ✉️ Email: [qureshizayyan49@gmail.com](mailto:qureshizayyan49@gmail.com)  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/zayyan-qureshi-a46035292/)
+- 🔗 LinkedIn: [Zayyan Qureshi](https://www.linkedin.com/in/zayyan-qureshi-a46035292/)
 
 ---
 
-## 🧠 Fun Fact
-
-> “The best code is the one that explains itself — but if it doesn't, your README should.”
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zayyan-TSA&show_icons=true&theme=radical&count_private=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zayyan-TSA&layout=compact&theme=radical" height="170" />
-</p>
-
----
-
-<!-- Optional: Visitor counter -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Zayyan-TSA&style=flat-square&color=blue" alt="Zayyan-TSA" />
-</p>
+> *"Clean code. Clear logic. Continuous improvement."*
