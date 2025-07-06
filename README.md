@@ -30,7 +30,7 @@ Built with:
 - 🛒 Add-to-cart & cart view  
 - 🔐 Firebase Authentication & Firestore (in progress)  
 
-🔗 [GitHub Repository]('https://github.com/QureshiZayyan/E-Commerce')
+🔗 [GitHub Repository](https://github.com/Zayyan-TSA/shopkart](https://github.com/QureshiZayyan/E-Commerce)
 
 ---
 
