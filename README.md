@@ -1,8 +1,3 @@
-<p align="center">
-  <img src="https://your-image-url.com/banner-light.png"  
-       srcset="https://your-image-url.com/banner-dark.png 1x"  
-       alt="Zayyan's Banner" width="100%" />
-</p>
 
 <h1 align="center">Hey there 👋, I’m **Zayyan**</h1>
 <p align="center">
@@ -26,15 +21,16 @@
 
 Built with:
 
-- **Frontend:** React, Tailwind CSS  
-- **Backend:** Firebase 
-- **Auth & Hosting:** Firebase  
+- **Frontend:** ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
+- **Backend:** ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+- **Auth & Hosting:** ![Firebase](https://img.shields.io/badge/Firebase_Auth_and_Hosting-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
+#### ✨ Features:
 - 🛍️ Product listing with category filters  
 - 🛒 Add-to-cart & cart view  
-- 🧠 Firebase Authentication & Firestore (in progress)  
+- 🔐 Firebase Authentication & Firestore (in progress)  
 
-🔗 [GitHub Repository](https://github.com/Zayyan-TSA/shopkart)
+🔗 [GitHub Repository]('https://github.com/QureshiZayyan/E-Commerce')
 
 ---
 
