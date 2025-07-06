@@ -1,6 +1,12 @@
-<h1 align="center">Hi, I’m Zayyan 👋</h1>
 <p align="center">
-  Full-Stack Web Developer | JavaScript • React • Node.js • MongoDB
+  <img src="https://your-image-url.com/banner-light.png"  
+       srcset="https://your-image-url.com/banner-dark.png 1x"  
+       alt="Zayyan's Banner" width="100%" />
+</p>
+
+<h1 align="center">Hey there 👋, I’m **Zayyan**</h1>
+<p align="center">
+  Full-Stack Web Developer • Problem Solver • Lifelong Learner
 </p>
 
 ---
@@ -8,30 +14,27 @@
 ## 🚀 About Me
 
 - 🎓 BSc in Information Technology  
-- 🧠 I build full-stack web apps with efficient, scalable code  
-- 🛠️ Focused on clean UI, modular architecture, and real-world functionality  
+- 💻 I build end-to-end web applications with modern stacks  
+- 🧩 Comfortable working across both frontend and backend  
 - 🔁 Constantly learning and evolving as a developer
 
 ---
 
-## 🛒 Featured Project: ShopKart
+## 🔨 Featured Project
 
-A full-stack **eCommerce web app** built with:
+### 🛒 ShopKart – Full-Stack E-Commerce App
+
+Built with:
 
 - **Frontend:** React, Tailwind CSS  
-- **Backend:** Node.js, Express, MongoDB  
-- **Authentication & Hosting:** Firebase  
+- **Backend:** Firebase 
+- **Auth & Hosting:** Firebase  
 
-### 🔍 Features:
-- Category-based product filtering  
-- Cart functionality with persistent state  
-- Product detail navigation  
-- Firebase Auth integration (in progress)  
+- 🛍️ Product listing with category filters  
+- 🛒 Add-to-cart & cart view  
+- 🧠 Firebase Authentication & Firestore (in progress)  
 
-> 🧠 If your app can’t speak for itself, your README should.  
-> This project demonstrates my ability to design, build, and scale a production-grade app from scratch.
-
-🔗 [View Repository](https://github.com/Zayyan-TSA/shopkart)
+🔗 [GitHub Repository](https://github.com/Zayyan-TSA/shopkart)
 
 ---
 
@@ -43,7 +46,7 @@ A full-stack **eCommerce web app** built with:
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react" />
   <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux" />
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwind-css" /><br/>
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwind-css" /><br>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb" />
@@ -52,14 +55,15 @@ A full-stack **eCommerce web app** built with:
 
 ---
 
-## 📫 Contact
+## 📫 Get In Touch
 
 <p align="center">
   <a href="mailto:qureshizayyan49@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
   </a>
   &nbsp;
   <a href="https://linkedin.com/in/zayyan-qureshi-a46035292/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin" alt="LinkedIn" />
   </a>
 </p>
+
